@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">logindemo</string>
+    <string name="login">LOGIN</string>
+    <string name="no_of_attempts_remaining">no of attempts remaining:</string>
+</resources>
